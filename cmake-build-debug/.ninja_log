@@ -1,0 +1,12 @@
+# ninja log v6
+5	656	1731981683680944214	CMakeFiles/FileSystemSimulator.dir/main.cpp.o	ce57ccd8c9999983
+6	654	1731981837567860491	CMakeFiles/FileSystemSimulator.dir/FileSystem.cpp.o	8ab35b4f8b6e233e
+654	793	1731981838216272161	FileSystemSimulator	5fca3ec778dac190
+1	744	1731981634470034483	CMakeFiles/FileSystemSimulator.dir/Inode.cpp.o	d7a9826ecd5ac1b1
+2	49	1731982607322518487	build.ninja	102b5e9a55a1f7b3
+4	551	1731982607332724752	CMakeFiles/FileSystemSimulator.dir/main.cpp.o	4b498ef3a1f0acc8
+4	552	1731982607332942958	CMakeFiles/FileSystemSimulator.dir/Inode.cpp.o	f1c66e4d933fd02c
+4	595	1731982607333078082	CMakeFiles/FileSystemSimulator.dir/FileSystem.cpp.o	8735a06e6368a696
+595	740	1731982607923795121	FileSystemSimulator	5fca3ec778dac190
+6	565	1731983057589689862	CMakeFiles/FileSystemSimulator.dir/FileSystem.cpp.o	8735a06e6368a696
+565	702	1731983058149320992	FileSystemSimulator	5fca3ec778dac190
